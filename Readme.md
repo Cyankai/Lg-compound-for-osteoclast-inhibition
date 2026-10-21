@@ -28,8 +28,6 @@ install.packages(c("dplyr", "tidyr", "tibble", "ggplot2", "patchwork", "scales")
 
 ---
 
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
