@@ -1,6 +1,6 @@
 # Integrated Transcriptomic and Epigenetic Analysis of Lg-Mediated Osteoclast Repression
  
-This repository contains the complete analytical pipelines, visualization scripts, and source data tables for the multi-omics investigation of the small-molecule compound **Lg** in suppressing osteoclastogenesis. The study integrates bulk RNA-sequencing (RNA-seq) and genome-wide CUT&Tag profiling for repressive histone trimethylation (H3K9me3) in bone marrow-derived macrophages (BMDMs). Related raw data are deposited in GSE351858.
+This repository contains the complete analytical pipelines, visualization scripts, and source data tables for the multi-omics investigation of the small-molecule compound **Lg** in suppressing osteoclastogenesis. The study integrates bulk RNA-sequencing (RNA-seq) and genome-wide CUT&Tag profiling for repressive histone trimethylation (H3K9me3) in bone marrow-derived macrophages (BMDMs). Related raw data are deposited in GSE351858 as Private data and will be public after publishing.
 
 
 ## 🚀 Getting Started
